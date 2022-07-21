@@ -7,6 +7,10 @@
   This is a main page.
 </p>
 
+https://user-images.githubusercontent.com/100059297/180118787-831127fe-23d9-4b56-8873-a4348dc99ebc.mov
+
+
+
 📍 __Description__
 
 This repository shows one of the clone coding projects as a backend developer as the first team project from Wecode coding Bootcamp 34th located in South Korea. 
